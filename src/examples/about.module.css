@@ -1,0 +1,11 @@
+.page {
+  color: rgb(32, 194, 132);
+}
+
+.page h1 {
+  color: hotpink;
+}
+
+.text {
+  text-transform: uppercase;
+}
